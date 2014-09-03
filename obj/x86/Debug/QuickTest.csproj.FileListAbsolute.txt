@@ -1,0 +1,4 @@
+C:\Users\waleup\Documents\Visual Studio 2010\Projects\QuickTest\bin\Debug\ConsoleApplication.exe
+C:\Users\waleup\Documents\Visual Studio 2010\Projects\QuickTest\bin\Debug\ConsoleApplication.pdb
+C:\Users\waleup\Documents\Visual Studio 2010\Projects\QuickTest\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\waleup\Documents\Visual Studio 2010\Projects\QuickTest\obj\x86\Debug\ConsoleApplication.pdb
